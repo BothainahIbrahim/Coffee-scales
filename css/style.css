@@ -59,6 +59,7 @@ html {
 	
 	  max-width: 30px;
 	  display: flex;
+	  flex-direction: column;
 	}
 	.print_image
 	{
