@@ -67,7 +67,7 @@ html {
   }
 .button_nav {
 	text-align: center;
-	position: relative;
+	position: absolute;
 	align-items: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -79,6 +79,7 @@ html {
 img {
 	max-width: 60%;
 	height: auto;
+	justify-content: space-between;
 
 }
 
