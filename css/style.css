@@ -58,6 +58,7 @@ html {
 	.button_nav img {
 	  width: 10%;
 	  max-width: 30px;
+	  display: flex;
 	}
 	.print_image
 	{
@@ -73,6 +74,7 @@ html {
 	margin-left: auto;
 	width: 100%;
 	height: auto;
+	flex-direction:column ;
 	
 }
 
